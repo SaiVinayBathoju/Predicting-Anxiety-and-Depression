@@ -13,7 +13,7 @@ additional associated factors, including cognitive development skills, in-school
 behaviour, social activities, and digital media activities. In order to reach all categories of 
 people and to apply these algorithms, data were collected from employed and unemployed 
 individuals across different cultures and communities through the Depression, Anxiety and 
-Stress Scale category. Ensuring the scalability and accessibility of the predictive system 
+Stress Scale category(160000 tweets). Ensuring the scalability and accessibility of the predictive system 
 to reach a broader population, increasing the accuracy rate of prediction is also the major 
 future scope of the project. A general model for depression diagnosis involving data 
 extraction, preprocessing, training ML classifier, detection classification, and performance 
